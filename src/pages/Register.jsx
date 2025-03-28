@@ -92,7 +92,7 @@ export default function Register() {
               Sign In
             </Link>
             <br />
-            Crafted with ☕ by Ankit Kumar
+            Crafted with ☕ by Swarnendu Maity
           </p>
         </div>
       </div>
