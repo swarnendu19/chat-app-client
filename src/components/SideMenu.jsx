@@ -14,7 +14,7 @@ export default function SideMenu({ activeLeftSidebar, setActiveLeftSidebar }) {
   return (
     <div className="side-menu h-full w-[75px] flex flex-col items-center justify-between py-5 border-r-2 dark:border-none dark:bg-backgroundDark1 ">
       <div className=" w-10">
-        <img src={logo} alt="zenchat" />
+        <img src={logo} alt="SonuChat" />
       </div>
       <div>
         <ul className="flex flex-col gap-10">
